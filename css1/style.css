@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(199, 32, 52);
+    text-align: center
+}
+.about{
+    text-transform: uppercase;
+    word-spacing: 8em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+}
+h1{
+    text-transform: uppercase;
+    word-spacing: 2em;
+   font-family: c:\Users\HP\Documents\Libre_Baskerville (1)_1\LibreBaskerville-Regular.ttf
+}
+p{ 
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+}
+img{
+   margin-right: 15px;
+}
+.row2{
+    margin-top: 10px;
+   margin-right: 15px;
+}
+div{
+    text-align: center;
+    width: 60%;
+    height: 162%;
+    background-color: white;
+    position: absolute;
+    top: 5%;
+    bottom: 20%;
+    left: 20%;
+
+}
+.neon{
+word-spacing: 8em;
+}
+.thought{
+    word-spacing: 8em;
+}
